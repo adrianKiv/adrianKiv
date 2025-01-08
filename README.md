@@ -178,7 +178,7 @@ My name is Adrian Mulianto and I'm currently an undergraduate computer science s
 </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WildanRaffians&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianKiv&layout=compact&theme=dark)
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/ryuutoranosuke?ext=contest)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bintangfajarr)](https://git.io/streak-stats)-->
 ![](https://komarev.com/ghpvc/?username=adrianKiv)
