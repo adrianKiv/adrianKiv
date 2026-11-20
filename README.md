@@ -6,7 +6,7 @@
 <h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="25"/>  About Me</h3>
 
 ###
-My name is Adrian Mulianto and I'm currently an graduate computer science student at Indonesia University of Education. My fields of interest are backend engineering, frontend engineering, and full-stack web developer.
+My name is Adrian Mulianto and I'm currently a fresh graduate computer science student at Indonesia University of Education. My fields of interest are backend engineering, frontend engineering, and full-stack web developer.
 
 ## 💻 Tools & Technologies
 
