@@ -1,5 +1,11 @@
+
 ### Hi there 👋
 
+###
+
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="25"/>  About Me</h3>
+
+###
 My name is Adrian Mulianto and I'm currently an undergraduate computer science student at Indonesia University of Education. My fields of interest are backend engineering and frontend engineering
 
 ## 💻 Tools & Technologies
@@ -165,13 +171,38 @@ My name is Adrian Mulianto and I'm currently an undergraduate computer science s
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Katalon](https://img.shields.io/badge/-Katalon-7D4698?style=for-the-badge&logo=katalon&logoColor=white)
 
-<p align="left">
-<a href="https://github.com/adrianKiv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianKiv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="25"/>   My Stats :</h3>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianKiv.adrianKiv" alt="visitor badge" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianKiv&theme=tokyonight" alt="profile details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianKiv&theme=tokyonight" height="150" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianKiv&theme=tokyonight" height="150" alt="top languages" />
+</div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65§ion=footer"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianKiv&layout=compact&theme=dark&hide=HTML)
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/ryuutoranosuke?ext=contest)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bintangfajarr)](https://git.io/streak-stats)-->
-![](https://komarev.com/ghpvc/?username=adrianKiv)
+
+<!--
+
+<h3 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1643515207/12254/stockrocket.gif?1643515207" width="25"/>   My Stats :</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianKiv&show_icons=true&count_private=true&theme=blueberry&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianKiv&layout=compact&langs_count=5&theme=blueberry&hide_border=false" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=adrianKiv&theme=blueberry&hide_border=false" height="150" alt="streak stats" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65§ion=footer"/>
+</p>
+
+ --> 
